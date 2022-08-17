@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 *{
     margin:0;
@@ -6,7 +6,7 @@
     border:none;
 }
 body{
-    font-family: lato, sans-serif;
+    font-family: montserrat, sans-serif;
     font-weight: 300;
     color:#3a3a3a;
 }   
@@ -16,7 +16,7 @@ body{
 
 h1,h2{
 
-    font-family: Oswald, sans-serif;
+    font-family: montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
@@ -76,9 +76,9 @@ line-height: 75px;
 
 #hero-image {
 
-    height: 600px;
+    height: 800px;
     width: 100%;
-    background: url(../images/hero-image.webp) no-repeat center center;
+    background: url(../images/mainpage.jpg);
 
 
     /* animates pic*/
@@ -101,23 +101,44 @@ line-height: 75px;
 }
 
 #cover-text {
-    font-size: 130%;
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
+    font-size: 70%;
+    font-family: montserrat, sans-serif;
+    text-transform:none;
     letter-spacing: 4px;
 
-    width: 300px;
-    height: 200px;
+    width: 1200px;
+    height: 100px;
 
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(241, 109, 107, .7);
+    background-color: rgba(71, 72, 150, 0.7);
 
     bottom: 30px;
-    right: 150px;
+    right: 350px;
 
     position: absolute;
+}
+
+/*footer*/
+footer {
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin:1%;
+    padding: 5%;
+    color: #3a3a3a;
+
 }
 
 
