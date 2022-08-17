@@ -134,7 +134,7 @@ footer {
 }
 
 #demo-video{
-    width: 50%;
+    width: 35%;
     margin: 0 auto; 
     }
 
@@ -148,8 +148,35 @@ footer {
 
 }
 
+.left-side {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
 
+.right-side {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
 
+.right-photos{
+    
+    float: right;    
+    margin: 0 0 0 15px;
+}
+
+.left-photos{
+    
+    float: left;    
+    margin: 0 0 0 15px;
+}
+
+hr{
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px;
+}
 
 
 
