@@ -124,7 +124,7 @@ line-height: 75px;
 /*paragraphs*/
 p{
     font-size: 110%;
-    font-family: system-ui;
+    font-family: system-ui, sans-serif;
     letter-spacing: 4px;
     margin: 35px;
     
@@ -187,6 +187,10 @@ hr{
     width: 100%;
     margin: 5px;
 }
+
+
+
+
 
 
 
