@@ -20,6 +20,7 @@ h1,h2{
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
+    margin: 25px;
 }
 
 #logo {
@@ -118,6 +119,15 @@ line-height: 75px;
     right: 350px;
 
     position: absolute;
+}
+
+/*paragraphs*/
+p{
+    font-size: 110%;
+    font-family: system-ui;
+    letter-spacing: 4px;
+    margin: 35px;
+    
 }
 
 /*footer*/
