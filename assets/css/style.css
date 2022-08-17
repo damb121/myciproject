@@ -24,7 +24,7 @@ h1,h2{
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 240%;
     margin-left: 30px;
  }
 
@@ -58,10 +58,10 @@ line-height: 75px;
     border-bottom: 1px solid #3a3a3a;
 }
 
-/*hero image */
+/*main page image */
 
 
-#hero-outer{
+#main-outer{
 
     height: 600px;
     width: 100%;
@@ -74,7 +74,7 @@ line-height: 75px;
     color: #fff;
 }
 
-#hero-image {
+#main-image {
 
     height: 800px;
     width: 100%;
@@ -82,7 +82,7 @@ line-height: 75px;
 
 
     /* animates pic*/
-    animation-name: hero-zoom;
+    animation-name: main-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
@@ -90,8 +90,8 @@ line-height: 75px;
 
 
 
-/*hero zoom pic */
-@keyframes hero-zoom {
+/*main zoom pic */
+@keyframes main-zoom {
     from{
         transform: scale(1);
     }
@@ -133,6 +133,13 @@ footer {
     display: inline;
 }
 
+#demo-video{
+    width: 50%;
+    margin: 0 auto; 
+    }
+
+
+
 .social-networks i {
     font-size: 160%;
     margin:1%;
@@ -140,6 +147,8 @@ footer {
     color: #3a3a3a;
 
 }
+
+
 
 
 
