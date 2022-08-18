@@ -155,7 +155,6 @@ footer {
  #google-map{
         width: 25%;
         margin: 0 auto; 
-        float: center;
         }
 
 
@@ -304,13 +303,11 @@ hr {
         width: 40%;
         margin: 0 auto;
         height: 400px;
-        float:center;
       }
         #google-map{
         width: 40%;
         margin: 0 auto;
         height: 400px;
-        float:center;
 
         }
 
