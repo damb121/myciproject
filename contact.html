@@ -33,13 +33,37 @@
     </section>
 
     <hr>
-
+    
+   <!-- HTML Form -->
+<h2 id ="form-heading">Please fill out your details:</h2>
+<section id="contact-from">   
+<form action="mailto:damienjamesburke@gmail.com"
+method="POST"
+enctype="multipart/form-data"
+name="EmailForm">
+    Name:<br>
+    <input type="text" size="50" name="Contact-Name"><br><br>
+    Email:<br>
+    <input type="email" size="50" name="Contact-Email"><br><br> 
+    Message:<br> 
+    <textarea name="Contact-Message"  rows="6″ cols="25″>
+    </textarea>
+    <button type="submit" value="Submit">Send</button>
+</form>  
+</section>
+   
+<div>
         <!-- Google Map -->
+
+        <div id ="address-heading">
+        <h2>Where are we located?:</h2>
         <div id="google-map">
             <iframe width="620" height="515" src="https://maps.google.com/maps?q=mitnick%20security&t=&z=13&ie=UTF8&iwloc=&output=embed">
             </iframe>
-        </iframe>
+       
     </div>
+ </div>   
+
     <hr>
     
 

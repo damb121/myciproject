@@ -149,6 +149,9 @@ footer {
     }
 
 /*google map*/
+#address-heading{
+    text-align: center;  
+}
  #google-map{
         width: 35%;
         margin: 0 auto; 
@@ -191,6 +194,22 @@ hr{
     border-top: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px;
+}
+
+/*email form*/
+#form-heading{
+    text-align: center;  
+}
+#contact-from{
+        width: 28%;
+        margin: 0 auto; 
+        height: 250px;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        background-color: #949ed0;
+        resize: none;
 }
 
 
