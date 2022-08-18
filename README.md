@@ -1,6 +1,13 @@
 # The Worlds Most Wanted Hacker
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Thie project is intended to demonstrate skills learned from HTML/CSS course material. It is based upon project idea -Example 1 historical facts surrounding a particular artefact, person, place or event.
+
+I have choesen well known hacker(but maybe not to everyone) Kevin Mitnick.
+
+Reference Content
+https://www.mitnicksecurity.com/
+https://www.knowbe4.com/products/who-is-kevin-mitnick/
+
 
 
 
@@ -37,8 +44,7 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to Kevins social media pages. Youtube,Facebook,instagram, and Twitter.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
