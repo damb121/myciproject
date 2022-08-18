@@ -148,6 +148,11 @@ footer {
     margin: 0 auto; 
     }
 
+/*google map*/
+ #google-map{
+        width: 35%;
+        margin: 0 auto; 
+        }
 
 
 .social-networks i {
