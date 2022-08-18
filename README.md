@@ -25,7 +25,7 @@ I have choesen well known hacker(but maybe not to everyone) Kevin Mitnick.
 
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/66738622/185468807-673b489e-8db7-4840-9ba6-1ece24938591.png">
 
-  - The landing page includes a photo of Kevins arrest warrant with another image while he was on the run. The though here is to grab the viewers attention and take advantage of the recent cultural obsession of true crime. If I had used a picture of Kevin behind a computer the use would not be as interested to learn more. 
+  - The landing page includes a photo of Kevins arrest warrant with another image while he was on the run. The thought here is to grab the viewers attention and take advantage of the recent cultural obsession of true crime. If I had used a more boring picture of Kevin (behind a computer) the user would not be as interested to learn more. 
 
   I used the transform zoom technique that was used in the love running project as I found it worked quite well with this image.
 
@@ -67,7 +67,7 @@ I have choesen well known hacker(but maybe not to everyone) Kevin Mitnick.
 
 - __The contact page__
 
-  - This page will allow the user to complete an email signup as well as seeing the google maps address to mitnick security hq.
+  - This page will allow the user to complete an email signup as well as seeing the embedded google maps address to mitnick security HQ.
 
 <img width="665" alt="image" src="https://user-images.githubusercontent.com/66738622/185470179-986372c2-b909-4398-ae3d-1ec053de2113.png">
 
@@ -76,7 +76,7 @@ I have choesen well known hacker(but maybe not to everyone) Kevin Mitnick.
 ### Features Left to Implement
 
 - would like to add a timeline element to the biography page that shows milestones throughout Kevins career.
-- adding a media section page as there a whole host of hacking demos available online from Kevin over the years as well as talks.
+- add a media section page as there a whole host of hacking demos available online from Kevin over the years as well as talks.
 
 
 ## Testing 
@@ -84,7 +84,7 @@ The navigation works as intendened using techniques I have learned in the love r
 
 The responsiveness of the content on smaller devices can be improved. Splitting out the images and text with more Divs etc would make the adjustment much easier. For future work I will continously check the different device sizes as the site is built out. I found leaving this to the end difficult and improving it would require redoing a lot of the site.
 
-A lot time was wasted on the sizing positioning of the demo video. In future it would help to jot out the differnet pages and content before hand. 
+A lot time was wasted on the sizing positioning of the demo video. In future it would help to jot out the different pages and content before hand. 
 
 The validation sites should also have been used earlier as I found both very useful but at the end of the project.
 
