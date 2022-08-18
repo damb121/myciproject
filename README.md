@@ -4,16 +4,15 @@ Thie project is intended to demonstrate skills learned from HTML/CSS course mate
 
 I have choesen well known hacker(but maybe not to everyone) Kevin Mitnick.
 
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/66738622/185468926-c23f7862-9d32-4209-a351-5f4aa7866fb0.png">
 
 
 
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, f
 
 ### Existing Features
 
@@ -21,44 +20,57 @@ In this section, you should go over the different parts of your project, and des
 
   - The Nav bar features on all pages and contains similar techniques learned in the love running project. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __The landing page image__
 
-  - The landing includes a photo of Kevins arrest warrant with another image while he was on the run. The though here is to grab the viewers attention and take advantage of the recent cultural obsession of true crime. If I had used a picture of Kevin behind a computer the use would not be as interested to learn more. 
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/66738622/185468807-673b489e-8db7-4840-9ba6-1ece24938591.png">
+
+  - The landing page includes a photo of Kevins arrest warrant with another image while he was on the run. The though here is to grab the viewers attention and take advantage of the recent cultural obsession of true crime. If I had used a picture of Kevin behind a computer the use would not be as interested to learn more. 
 
   I used the transform zoom technique that was used in the love running project as I found it worked quite well with this image.
 
   There is also text containing a famous quote from Kevin.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Kevin Mitnick - The Hacker Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+- __Kevin Mitnick-The Hacker __
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+  This section at high level(without having to read the full biography) shows how Kevin became famous for his crimes but also what hes done since and his success.
+
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/66738622/185469859-e2a76462-ce3f-4760-902e-f131dcd599f2.png">
+
+
 
 
 
 - __The Footer__ 
 
   - The footer section includes links to Kevins social media pages. Youtube,Facebook,instagram, and Twitter.
+<img width="605" alt="image" src="https://user-images.githubusercontent.com/66738622/185469525-edade38d-552e-475b-a534-59a3ae25cbb0.png">
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+
+
+
 
 - __The Biography page__
 
-  - This page gives a bit more detail on Kevins career.
+  - This page gives the user a bit more detail on Kevins career.
+  <img width="945" alt="image" src="https://user-images.githubusercontent.com/66738622/185470693-b7b9c760-1b75-46a2-87c3-311972b0de52.png">
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+
+
+
+
+
+
+<img width="933" alt="image" src="https://user-images.githubusercontent.com/66738622/185469047-bde004e8-1563-44b5-a5ad-1e7c3720e86d.png">
 
 - __The contact page__
 
   - This page will allow the user to complete an email signup as well as seeing the google maps address to mitnick security hq.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+<img width="665" alt="image" src="https://user-images.githubusercontent.com/66738622/185470179-986372c2-b909-4398-ae3d-1ec053de2113.png">
+
 
 
 ### Features Left to Implement
