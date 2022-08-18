@@ -15,8 +15,8 @@
     
     <nav id="menu">
         <ul>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="mitnicksecurity.html" class="active">Mitnick-Security</a></li>
+            <li><a href="contact.html" class="active">Contact</a></li>
+            <li><a href="mitnicksecurity.html">Mitnick-Security</a></li>
             <li><a href="bio.html">Bio</a></li>
             <li><a href="index.html">Home</a></li>
           
@@ -34,15 +34,33 @@
 
     <hr>
 
-    <!-- MITNICK SECURITY-->
 
-    <section>
+    
+    <!-- Contact form -->
 
-        <div>
-                   <div><h1>Mitnick-Security</h1></div>
-        </div>           
-
-    </section>  
+    <div class="container">
+        <form action="action_page.php">
+      
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="Your name..">
+      
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+      
+          <label for="country">Country</label>
+          <select id="country" name="country">
+            <option value="australia">Australia</option>
+            <option value="canada">Canada</option>
+            <option value="usa">USA</option>
+          </select>
+      
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+      
+          <input type="submit" value="Submit">
+      
+        </form>
+      </div>
 
     <footer>
         <ul class="social-networks">
