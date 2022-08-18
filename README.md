@@ -50,7 +50,7 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Biography page__
 
-  - This page gives a bit more detail on Kevins career
+  - This page gives a bit more detail on Kevins career.
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
@@ -60,36 +60,32 @@ In this section, you should go over the different parts of your project, and des
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
 - would like to add a timeline element to the biography page that shows milestones throughout Kevins career.
 - adding a media section page as there a whole host of hacking demos available online from Kevin over the years as well as talks.
 
+
 ## Testing 
+The navigation works as intendened using techniques I have learned in the love running site. 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The responsiveness of the content on smaller devices can be improved. Splitting out the images and text with more Divs etc would make the adjustment much easier. For future work I will continously check the different device sizes as the site is built out. I found leaving this to the end difficult and improving it would require redoing a lot of the site.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+A lot time was wasted on the sizing positioning of the demo video. In future it would help to jot out the differnet pages and content before hand. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+The validation sites should also have been used earlier as I found both very useful but at the end of the project.
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - 1 warning , 0 errors
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - 0 errors 
 
 ### Unfixed Bugs
 
-The responsiveness of the content on smaller devices can be improved. For future work I will continously check the different device sizes as the site is built out. I found leaving this to the end difficult and improving it would require redoing a lot of the site.
+The responsiveness of the content on smaller devices can be improved. 
 
 ## Deployment
 
@@ -111,7 +107,6 @@ https://www.w3schools.com/ was used for many syntax clarifiactions.
 
 -
 The mitnick content was taken from :
-Reference Content
 https://www.mitnicksecurity.com/
 https://www.knowbe4.com/products/who-is-kevin-mitnick/
 https://en.wikipedia.org/wiki/Kevin_Mitnick
